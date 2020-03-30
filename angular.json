@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "employee-app-client"
+    }
+  },
+  "defaultProject": "employee-app-client",
+  "cli": {
+    "analytics": false
+  }
 }
